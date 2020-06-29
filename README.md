@@ -43,12 +43,6 @@ Something is missing?  Create a pull request!
         [proof](https://news.ycombinator.com/item?id=8822940)
         ,
         [github](https://github.com/42reports)
-    * [8fit GmbH](https://8fit.com) —
-        [proof](https://www.facebook.com/berlinstartupjobs/posts/1606458446068530)
-        ,
-        [github](https://github.com/8fit)
-        ,
-        [jobs](https://8fit.com/careers/)
 * __A__
     * [aam it GmbH](https://www.aam-it.eu/de/) —
         [proof](https://www.aam-it.eu/de/karriere/stellenangebote/details/senior-python-entwickler-m-w-msa.html)
